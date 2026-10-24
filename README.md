@@ -7,7 +7,6 @@ The application captures the current Windows system audio, performs an FFT analy
 No MQTT broker or additional service is required.
 
 ![Animation](animation.gif)
-![Terminal](terminal.jpg)
 
 ```text
 Windows Audio
@@ -56,6 +55,8 @@ Ulanzi TC001
 - Automatically restores the previous settings on startup
 - No MQTT required
 - No modification of AWTRIX NG required
+
+![Terminal](terminal.jpg)
 
 ---
 
