@@ -1,0 +1,9 @@
+{
+    "mode": "smooth",
+    "gain": 1.1,
+    "bass_boost": 1.25,
+    "noise_gate": 0.125,
+    "brightness": 0.7,
+    "attack": 0.735,
+    "decay": 0.131
+}
